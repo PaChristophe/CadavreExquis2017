@@ -12,3 +12,6 @@ De tous les membres de la formation.
 
 ##Auteur
 c'est monstration
+
+##Remerciements
+Merci à toutes et à tous
