@@ -9,3 +9,6 @@ Principe du jeu à décrire
 
 ### Participants
 De tous les membres de la formation.
+
+##Auteur
+c'est monstration
